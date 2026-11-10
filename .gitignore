@@ -1,0 +1,23 @@
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
